@@ -147,3 +147,4 @@ affiliated with or endorsed by any vehicle manufacturer, and it redistributes
 no manufacturer code, binary, or proprietary database. Read [NOTICE](NOTICE)
 before using it: running this software may affect your vehicle warranty, and you
 are responsible for having the right to access the vehicle you run it on.
+
